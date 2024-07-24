@@ -1,48 +1,29 @@
 #EXTM3U
-#EXTINF:-1 ,广东卫视
-http://125.210.152.18:9090/live/GDWSHD_H265.m3u8
-#EXTINF:-1 ,揭阳综合
-http://livejieyang.chinamcache.com/live/zb01.m3u8
-#EXTINF:-1 ,揭阳公共
-http://livejieyang.chinamcache.com/live/zb02.m3u8
-#EXTINF:-1 ,清远公共
-http://stream1.0763f.com/qygg/sd/live.m3u8?_upt=dad6a4c91578916139
-#EXTINF:-1 ,惠州综合
-http://livehuiz.sobeycache.com/live/zb01.m3u8?auth_key=1590030432-0-0-1bbff456219cf4a695137623cd8cb183
-#EXTINF:-1 ,广州综合
-http://116.199.5.52:8114/00000000/index.m3u8?&Fsv_ctype=LIVES&Fsv_otype=1&FvSeid=5abd1660af1babb4&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=0&Fsv_chan_hls_se_idx=44&Fsv_rate_id=0&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Provider_id=&Pcontent_id=&Fsv_CMSID=&Fsv_otype=1
-#EXTINF:-1 ,广州生活
-http://aplay.gztv.com/sec/shenghuo.m3u8
-#EXTINF:-1 ,广州经济
-http://aplay.gztv.com/sec/jingji.m3u8
-#EXTINF:-1 ,广州竞赛
-http://aplay.gztv.com/sec/jingsai.m3u8
-#EXTINF:-1 ,广东综艺
-http://nclive.grtn.cn/4K/sd/live.m3u8
-#EXTINF:-1 ,珠江频道
-http://116.199.5.52:8114/00000000/index.m3u8?&Fsv_ctype=LIVES&Fsv_otype=1&FvSeid=5abd1660af1babb4&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=0&Fsv_chan_hls_se_idx=8&Fsv_rate_id=0&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Provider_id=&Pcontent_id=&Fsv_CMSID=&Fsv_otype=1
-#EXTINF:-1 ,佛山综合
-http://dslive.grtn.cn/fszh/sd/live.m3u8
-#EXTINF:-1 ,韶关综合
-http://dslive.grtn.cn/sgxwzhHD/sd/live.m3u8
-#EXTINF:-1 ,东莞综合
-http://dslive.grtn.cn/dgzh/sd/live.m3u8
-#EXTINF:-1 ,湛江综合
-http://dslive.grtn.cn/zjzh/sd/live.m3u8
-#EXTINF:-1 ,云浮综合
-http://dslive.grtn.cn/yfzh/sd/live.m3u8
-#EXTINF:-1 ,珠海综合
-http://dslive.grtn.cn/zhzh/sd/live.m3u8
-#EXTINF:-1 ,广东公共频道
-http://nclive.grtn.cn/ggpd/sd/live.m3u8
-#EXTINF:-1 ,广东国际频道
-http://nclive.grtn.cn/gjpd/sd/live.m3u8
-#EXTINF:-1 ,南方购物频道
-http://nclive.grtn.cn/nfgw/sd/live.m3u8
-#EXTINF:-1 ,高尔夫频道
-http://nclive.grtn.cn/grfpd/sd/live.m3u8
-#EXTINF:-1 ,广东影视频道
-http://nclive.grtn.cn/tvs4/sd/live.m3u8
+#EXTM3U x-tvg-url="http://epg.51zmt.top:8000/e.xml"
+#EXTINF:-1 tvg-id="翡翠台" tvg-name="翡翠台" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/TVB1.png" group-title="香港",翡翠台
+https://samuelwongvv.top/Smartv.php?id=jade_twn
+#EXTINF:-1 tvg-id="J2" tvg-name="J2" tvg-logo="https://live.fanmingming.com/tv/TVB+.png" group-title="香港",TVB Plus
+https://stream1.freetv.fun/1936e0180ebd92426c3868ef2bdd66c8217fbe9b33c7061122dc46c27ae56c78.m3u8
+#EXTINF:-1 tvg-id="News 新聞台" tvg-name="News 新聞台" tvg-logo="https://live.fanmingming.com/tv/无线新闻台.png" group-title="香港",无线新闻
+http://live.cooltv.top/tv/tvb.php?id=2
+#EXTINF:-1 tvg-id="ViuTV" tvg-name="ViuTV" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/viutv.png" group-title="香港",ViuTV
+https://stream1.freetv.fun/e4d66fd4c29cf74a40b5d3bb9743f71e4409147a50bb971428057839a054fd3a.ctv
+#EXTINF:-1 tvg-id="珠江频道" tvg-name="珠江频道" tvg-logo="https://live.fanmingming.com/tv/广东珠江.png" group-title="大湾区",广东珠江
+https://stream1.freetv.fun/38d3fe3f8c30f9e43b24e68ea514981e28d8176819db8bb5c8e43adb6dc80aa8.ctv
+#EXTINF:-1 tvg-id="大湾区卫视" tvg-name="大湾区卫视" tvg-logo="https://live.fanmingming.com/tv/大湾区卫视.png" group-title="大湾区",大湾区卫视
+https://stream1.freetv.fun/530100dc12484a6e1bc74a557a42b260134a998632ba4a1cafd0339efeb774d8.ctv
+#EXTINF:-1 tvg-id="广东体育" tvg-name="广东体育" tvg-logo="https://live.fanmingming.com/tv/广东体育.png" group-title="大湾区",广东体育
+https://stream1.freetv.fun/a57de1e20a87f44847520e50b82b818ed289e174ee7122ee84fa1856bb416b83.m3u8
+#EXTINF:-1 tvg-id="东莞新闻综合" tvg-name="东莞新闻综合" tvg-logo="https://live.fanmingming.com/tv/东莞新闻综合.png" group-title="大湾区",东莞新闻综合
+http://php.jdshipin.com:8880/0769.php?id=xwzh
+#EXTINF:-1 tvg-id="东莞生活资讯" tvg-name="东莞生活资讯" tvg-logo="https://live.fanmingming.com/tv/东莞新闻综合.png" group-title="大湾区",东莞生活资讯
+http://php.jdshipin.com:8880/0769.php?id=shzx
+#EXTINF:-1 tvg-name="凤凰中文" tvg-logo="https://live.fanmingming.com/tv/凤凰卫视中文台.png" group-title="大湾区",凤凰中文
+http://116.162.6.192/1.v.smtcdns.net/qctv.fengshows.cn/live/0701pcc72.m3u8
+#EXTINF:-1 tvg-name="凤凰资讯" tvg-logo="https://live.fanmingming.com/tv/凤凰卫视资讯台.png" group-title="大湾区",凤凰资讯
+http://116.162.6.192/1.v.smtcdns.net/qctv.fengshows.cn/live/0701pin72.m3u8
+#EXTINF:-1 tvg-name="凤凰香港" tvg-logo="https://live.fanmingming.com/tv/凤凰卫视香港台.png" group-title="大湾区",凤凰香港
+http://116.162.6.192/1.v.smtcdns.net/qctv.fengshows.cn/live/0701phk72.m3u8
 #EXTINF:-1  group-title="IPV6" tvg-logo="https://epg.112114.xyz/logo/CCTV1.png",CCTV-1 综合
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226016/index.m3u8
 #EXTINF:-1  group-title="IPV6" tvg-logo="https://epg.112114.xyz/logo/CCTV2.png",CCTV-2 财经
