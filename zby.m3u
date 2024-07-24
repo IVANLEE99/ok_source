@@ -1,4 +1,48 @@
 #EXTM3U
+#EXTINF:-1 ,广东卫视
+http://125.210.152.18:9090/live/GDWSHD_H265.m3u8
+#EXTINF:-1 ,揭阳综合
+http://livejieyang.chinamcache.com/live/zb01.m3u8
+#EXTINF:-1 ,揭阳公共
+http://livejieyang.chinamcache.com/live/zb02.m3u8
+#EXTINF:-1 ,清远公共
+http://stream1.0763f.com/qygg/sd/live.m3u8?_upt=dad6a4c91578916139
+#EXTINF:-1 ,惠州综合
+http://livehuiz.sobeycache.com/live/zb01.m3u8?auth_key=1590030432-0-0-1bbff456219cf4a695137623cd8cb183
+#EXTINF:-1 ,广州综合
+http://116.199.5.52:8114/00000000/index.m3u8?&Fsv_ctype=LIVES&Fsv_otype=1&FvSeid=5abd1660af1babb4&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=0&Fsv_chan_hls_se_idx=44&Fsv_rate_id=0&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Provider_id=&Pcontent_id=&Fsv_CMSID=&Fsv_otype=1
+#EXTINF:-1 ,广州生活
+http://aplay.gztv.com/sec/shenghuo.m3u8
+#EXTINF:-1 ,广州经济
+http://aplay.gztv.com/sec/jingji.m3u8
+#EXTINF:-1 ,广州竞赛
+http://aplay.gztv.com/sec/jingsai.m3u8
+#EXTINF:-1 ,广东综艺
+http://nclive.grtn.cn/4K/sd/live.m3u8
+#EXTINF:-1 ,珠江频道
+http://116.199.5.52:8114/00000000/index.m3u8?&Fsv_ctype=LIVES&Fsv_otype=1&FvSeid=5abd1660af1babb4&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=0&Fsv_chan_hls_se_idx=8&Fsv_rate_id=0&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Provider_id=&Pcontent_id=&Fsv_CMSID=&Fsv_otype=1
+#EXTINF:-1 ,佛山综合
+http://dslive.grtn.cn/fszh/sd/live.m3u8
+#EXTINF:-1 ,韶关综合
+http://dslive.grtn.cn/sgxwzhHD/sd/live.m3u8
+#EXTINF:-1 ,东莞综合
+http://dslive.grtn.cn/dgzh/sd/live.m3u8
+#EXTINF:-1 ,湛江综合
+http://dslive.grtn.cn/zjzh/sd/live.m3u8
+#EXTINF:-1 ,云浮综合
+http://dslive.grtn.cn/yfzh/sd/live.m3u8
+#EXTINF:-1 ,珠海综合
+http://dslive.grtn.cn/zhzh/sd/live.m3u8
+#EXTINF:-1 ,广东公共频道
+http://nclive.grtn.cn/ggpd/sd/live.m3u8
+#EXTINF:-1 ,广东国际频道
+http://nclive.grtn.cn/gjpd/sd/live.m3u8
+#EXTINF:-1 ,南方购物频道
+http://nclive.grtn.cn/nfgw/sd/live.m3u8
+#EXTINF:-1 ,高尔夫频道
+http://nclive.grtn.cn/grfpd/sd/live.m3u8
+#EXTINF:-1 ,广东影视频道
+http://nclive.grtn.cn/tvs4/sd/live.m3u8
 #EXTINF:-1  group-title="IPV6" tvg-logo="https://epg.112114.xyz/logo/CCTV1.png",CCTV-1 综合
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226016/index.m3u8
 #EXTINF:-1  group-title="IPV6" tvg-logo="https://epg.112114.xyz/logo/CCTV2.png",CCTV-2 财经
